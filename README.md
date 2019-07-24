@@ -1,6 +1,6 @@
 # TINYforming_Mars
 
-![Game logo](https:////Game_logo.png)
+![Game logo](https://github.com/beg7/TINYforming_Mars/blob/master/images/Game_logo.png)
 
 This repository is only store for assets of print-and-play board game "TINYforming_Mars". 
 In my plans make and play this game / translate to my native language / play again.
