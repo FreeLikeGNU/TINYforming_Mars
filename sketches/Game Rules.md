@@ -16,10 +16,10 @@ by Michael Bevilacqua
 
 **Game Flow:** The game takes place over several rounds, known as Generations, in which players will alternate taking turns. First the players will draft Project Cards which describe Projects that they have access to. Then, on a player`s turn, he can complete one of his own Projects, one of the Standard Projects, or pass. When both players collect income to begin the next Generation.
 
-**End Game:** The three paramenters: Heat, Greenery? and Water are represented by Red, Green, and Blue Cubes, respectively. The players will acquire or place these Cubes by completing Projects and Standard Projects. When the supply of at least 2 of the 3 types have been exhausted or these are no vacant hexes on the map, that Generation will be the final Generation of the game. Jnce that Generation is over, the players will count their scores. Highest score wins.
+**End Game:** The three parameters: Heat, Greenery? and Water are represented by Red, Green, and Blue Cubes, respectively. The players will acquire or place these Cubes by completing Projects and Standard Projects. When the supply of at least 2 of the 3 types have been exhausted or these are no vacant hexes on the map, that Generation will be the final Generation of the game. Once that Generation is over, the players will count their scores. Highest score wins.
 
 ## SETUP
-1. Players will decide if they want to olay the Tharsis Map or the Elysium Map and set it up in the center of the table.
+1. Players will decide if they want to play the Tharsis Map or the Elysium Map and set it up in the center of the table.
 2. Players will randomly determine who will be the White player and who will be the Black player. The White player starts the game and will be first in the odd Generations (rounds 1,3,5...) and the Black player will be first in the even Generations (rounds 2,4,6...). Each player takes the 3 Cubes that match the color they are playing.
 3. Each player takes 5 Credit Cubes (Yellow).
 4. The 3 types of Parameter Cubes (Red, Green, and Blue) are placed off to the side of Map to create a supply.
@@ -33,4 +33,12 @@ by Michael Bevilacqua
 ##PARAMETERS
 The three Parameters, Heat, Greenery, and Water are how you terraform Mars. They are represented by Red, Gree, and Blue Cubes, respectively. They are acquired by activating Card Projects and Standard Projects. When at least 2 out of the 3 parameter Cube types have been exhausted from the supply, the end of game has been triggered and that will be the final Generation.
 
+![image heat parameter]() **Heat:** When a player gains a Heat Cube, he takes a Red Cube from the supply and adds it to his own personal supply. Each Heat Cube in player's personal supply is worth 1 victory point at the end of the game. A Heat Cube on the map is worth -1 point to any city adjacent to that Heat Cube.
+
+![image greenery parameter]() **Greenery:** When placing a Greenery Cube, take a Green Cube from the supply and add ot to a vacant hex on the map that is *not* reserved for water. Each Greenery Cube that is adjacent to a city scores that city's owner 1 victory point - plus 1 *additional* VP os it is adjacent to only that player's city and not his opponent's city during end game scoring.
+
+![image water parameter]() **Water:** When placing a Water Cube, take a Blue Cube from supply and add is to a vacant hex on the map reserved for water. A hex that is reserved for water has a light blue background. When placing a Water Cube, if the hex has a Tag, gain a matching Resource Token from the supply if there are any available. In addition, if the Water Cube is placed adjacent to any other Water Cubes, the placing player gains 1 Credit for each adjacent Water Cube. During the Income Phase of a Generation, a Water Cube adds 1 to the income of each adjacent city. Each Water Cube that is adjacent to only one of the two players is worth 1 victory point to that player at the end of the game.
+
+##MAP
+Each map of Mars is made up of 19 hexes. There are 14 hexes that can have Greenery Cubes or City Cubes and 5 blue-tinted hexes that are reserved for Water Cubes. ![image mars map example]()
 
