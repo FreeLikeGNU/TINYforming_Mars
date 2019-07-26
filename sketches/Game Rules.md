@@ -55,4 +55,7 @@ On a player's turn, if he meets all the requirements of one of his Project cards
 1. **Project Name**
 2. **Cost in Credits.** If the Cost has an **\*** after the number, the cost can be reduced by an effect of the Project. When paying for a Project, the player must place 1 Credit Cube on the Project card to show he has used that Project this Generation. Additional Credits used to pay the cost are returned to the supply.
 If a player gains Credits during an Action Phase, he is not allowed to take any Credits that have been placed on Project cards.
-3. **Requirements:** Each Project 
+3. **Requirements:** Each Project requires that you have access to certain number and type of Tags. The Tags can come from any combination of your Project Cards (see #6), your cities on bonus hexes, and from spending (discarding) Resource Tokens.
+In Addition to the Tags, some Projects also require that a certain number of Parameter Cubes. The Heat requirement refers to the combined amount of both players' personal supplies of Heat Cubes *plus* any Head Cubes on the map. The Greenery or Water Cube requirement, refers to green/blue Cubes on the Map.
+4. **Effect icons:** The ability of the project is depicted here for quick reference. Also, The background color of the card indicates witch of the three parameters the project will help complete. Red/Heat, Green/Greenery, and Blue/Water. There is also Grey; this type will not complete parameters, but will offer some other ability.
+5. **Effect:** The ability of Project card is described in words
