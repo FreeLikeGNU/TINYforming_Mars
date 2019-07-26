@@ -1,4 +1,4 @@
-#TINYforming Mars
+# TINYforming Mars
 v1.0.3
 by Michael Bevilacqua
 
@@ -30,7 +30,7 @@ by Michael Bevilacqua
 
 ![image of game start position]()
 
-##PARAMETERS
+## PARAMETERS
 The three Parameters, Heat, Greenery, and Water are how you terraform Mars. They are represented by Red, Gree, and Blue Cubes, respectively. They are acquired by activating Card Projects and Standard Projects. When at least 2 out of the 3 parameter Cube types have been exhausted from the supply, the end of game has been triggered and that will be the final Generation.
 
 ![image heat parameter]() **Heat:** When a player gains a Heat Cube, he takes a Red Cube from the supply and adds it to his own personal supply. Each Heat Cube in player's personal supply is worth 1 victory point at the end of the game. A Heat Cube on the map is worth -1 point to any city adjacent to that Heat Cube.
@@ -39,6 +39,20 @@ The three Parameters, Heat, Greenery, and Water are how you terraform Mars. They
 
 ![image water parameter]() **Water:** When placing a Water Cube, take a Blue Cube from supply and add is to a vacant hex on the map reserved for water. A hex that is reserved for water has a light blue background. When placing a Water Cube, if the hex has a Tag, gain a matching Resource Token from the supply if there are any available. In addition, if the Water Cube is placed adjacent to any other Water Cubes, the placing player gains 1 Credit for each adjacent Water Cube. During the Income Phase of a Generation, a Water Cube adds 1 to the income of each adjacent city. Each Water Cube that is adjacent to only one of the two players is worth 1 victory point to that player at the end of the game.
 
-##MAP
+## MAP
 Each map of Mars is made up of 19 hexes. There are 14 hexes that can have Greenery Cubes or City Cubes and 5 blue-tinted hexes that are reserved for Water Cubes. ![image mars map example]()
 
+![image bonus hex]() **Bonus Hex:** A Bonus Hex has a Tag in the center and a thick border matching the color of the Tag. If a player has a city in a Bonus Hex, it counts as having one of that Tag for as long as his city is there. There are 5 Bonus Hexes.
+
+![image empty hex]() **Empty Hex:** There are 9 Empty Hexes that offers no additional benefit.
+
+![image water hex]() **Water Hex:** A Water Hex has a light blue background. If a player places a Parameter Cube in a Water Hex containing a Resource Token icon, he immediately gains that token to his supply.
+
+
+On a player's turn, if he meets all the requirements of one of his Project cards (the sides facing him), he can activate that Project in order to perform that card's ability. These abilities usually allow the player to gain a Heat Cube or place a Greenery or Water Cube on the Map. The effective use of Project cards will help win the game. A player can only activate each of his Project cards once per Generation.
+
+![image project card]() 
+1. **Project Name**
+2. **Cost in Credits.** If the Cost has an **\*** after the number, the cost can be reduced by an effect of the Project. When paying for a Project, the player must place 1 Credit Cube on the Project card to show he has used that Project this Generation. Additional Credits used to pay the cost are returned to the supply.
+If a player gains Credits during an Action Phase, he is not allowed to take any Credits that have been placed on Project cards.
+3. **Requirements:** Each Project 
