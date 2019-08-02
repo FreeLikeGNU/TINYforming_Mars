@@ -58,4 +58,20 @@ If a player gains Credits during an Action Phase, he is not allowed to take any 
 3. **Requirements:** Each Project requires that you have access to certain number and type of Tags. The Tags can come from any combination of your Project Cards (see #6), your cities on bonus hexes, and from spending (discarding) Resource Tokens.
 In Addition to the Tags, some Projects also require that a certain number of Parameter Cubes. The Heat requirement refers to the combined amount of both players' personal supplies of Heat Cubes *plus* any Head Cubes on the map. The Greenery or Water Cube requirement, refers to green/blue Cubes on the Map.
 4. **Effect icons:** The ability of the project is depicted here for quick reference. Also, The background color of the card indicates witch of the three parameters the project will help complete. Red/Heat, Green/Greenery, and Blue/Water. There is also Grey; this type will not complete parameters, but will offer some other ability.
-5. **Effect:** The ability of Project card is described in words
+5. **Effect:** The ability of Project card is described in words to correspond with the Effect icons. If there are no available Parameter Cubes that match the corresponding Project, that Project cannot be activated.
+**IMPORTANT:** The text of a Project card supersedes this rulebook.
+6. **Tags:** Each Project card immediately offers 2 Tags on the side facing you that can be used to meet the requirements of your ither Project cards or of a Standard Project. You do not have to complete the Project to gain the Tags the Project providers, this is automatic and you have them as soon as the cards are chosen at the beginning of each Generation. The 5 Tag types are:
+Energy ![image tag energy](), Production ![image tag production](), Nature ![image tag nature](), Science ![image tag science](), Space ![image tag space]()
+
+## STANDARD PROJECTS
+Once per Generation a player can complete one of the five Standard Projects if he meets all requirements of the chosen one. When a player activates his Standard Project, he places one of his Player Cubes on the Standard Project spot to show that he cannot activate another Standard Project this Generation. Most of the Standard Projects have a cost and Tag requirement similar to Project cards.
+
+1. **Sell Patent:** Gains 1 Credit. There are no requirements or cost for this. If there are no Credits in the supply, a player cannot take this Standard Project.
+2. **Build City:** Place or relocate one Player Cube on the map as city, observing the following rules: **a)** A player is limited to 2 cities. **b)** A city must be plaiced in vacant hex on the map. **c)** A player cannot place a city in hex reserved for water (light blue background). **d)** A player cannot place a city adjacent to any other city.
+If player has already placed his cities, he may take this Standard Project to relocate one of his cities ti a new hex, observing all the same placement rules.
+3. **Import Water:** Place an available Water Cube from the supply onto a vacant hex reserved for water.
+4. **Greenhouses:** Place an available Greenery Cube from the supply onto a vacant hex not reserved for water.
+5. **Energy Farm:** The player gains an available Heat Cube from the supply.
+
+## RESOURCE TOKENS
+When a Parameter Cube is placed in a space reserved for a Water Cube that has a Tag icon, the placing player gains a Resource Token matching that icon from the supply, If there are no matching Resource Tokens available, the player gains nothing. A Resource Token can be spent by returning it to the supply when a player needs that matching Tag for a Project ot Standard Project. Some Projects offer the activating player their choice of an available Resource Token. 
