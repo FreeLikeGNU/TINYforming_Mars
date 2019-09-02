@@ -48,7 +48,6 @@ Each map of Mars is made up of 19 hexes. There are 14 hexes that can have Greene
 
 ![image water hex]() **Water Hex:** A Water Hex has a light blue background. If a player places a Parameter Cube in a Water Hex containing a Resource Token icon, he immediately gains that token to his supply.
 
-
 On a player's turn, if he meets all the requirements of one of his Project cards (the sides facing him), he can activate that Project in order to perform that card's ability. These abilities usually allow the player to gain a Heat Cube or place a Greenery or Water Cube on the Map. The effective use of Project cards will help win the game. A player can only activate each of his Project cards once per Generation.
 
 ![image project card]() 
@@ -60,18 +59,69 @@ In Addition to the Tags, some Projects also require that a certain number of Par
 4. **Effect icons:** The ability of the project is depicted here for quick reference. Also, The background color of the card indicates witch of the three parameters the project will help complete. Red/Heat, Green/Greenery, and Blue/Water. There is also Grey; this type will not complete parameters, but will offer some other ability.
 5. **Effect:** The ability of Project card is described in words to correspond with the Effect icons. If there are no available Parameter Cubes that match the corresponding Project, that Project cannot be activated.
 **IMPORTANT:** The text of a Project card supersedes this rulebook.
-6. **Tags:** Each Project card immediately offers 2 Tags on the side facing you that can be used to meet the requirements of your ither Project cards or of a Standard Project. You do not have to complete the Project to gain the Tags the Project providers, this is automatic and you have them as soon as the cards are chosen at the beginning of each Generation. The 5 Tag types are:
+6. **Tags:** Each Project card immediately offers 2 Tags on the side facing you that can be used to meet the requirements of your other Project cards or of a Standard Project. You do not have to complete the Project to gain the Tags the Project providers, this is automatic and you have them as soon as the cards are chosen at the beginning of each Generation. The 5 Tag types are:
 Energy ![image tag energy](), Production ![image tag production](), Nature ![image tag nature](), Science ![image tag science](), Space ![image tag space]()
 
 ## STANDARD PROJECTS
 Once per Generation a player can complete one of the five Standard Projects if he meets all requirements of the chosen one. When a player activates his Standard Project, he places one of his Player Cubes on the Standard Project spot to show that he cannot activate another Standard Project this Generation. Most of the Standard Projects have a cost and Tag requirement similar to Project cards.
 
 1. **Sell Patent:** Gains 1 Credit. There are no requirements or cost for this. If there are no Credits in the supply, a player cannot take this Standard Project.
-2. **Build City:** Place or relocate one Player Cube on the map as city, observing the following rules: **a)** A player is limited to 2 cities. **b)** A city must be plaiced in vacant hex on the map. **c)** A player cannot place a city in hex reserved for water (light blue background). **d)** A player cannot place a city adjacent to any other city.
+2. **Build City:** Place or relocate one Player Cube on the map as city, observing the following rules: **a)** A player is limited to 2 cities. **b)** A city must be placed in vacant hex on the map. **c)** A player cannot place a city in hex reserved for water (light blue background). **d)** A player cannot place a city adjacent to any other city.
 If player has already placed his cities, he may take this Standard Project to relocate one of his cities ti a new hex, observing all the same placement rules.
 3. **Import Water:** Place an available Water Cube from the supply onto a vacant hex reserved for water.
 4. **Greenhouses:** Place an available Greenery Cube from the supply onto a vacant hex not reserved for water.
 5. **Energy Farm:** The player gains an available Heat Cube from the supply.
 
 ## RESOURCE TOKENS
-When a Parameter Cube is placed in a space reserved for a Water Cube that has a Tag icon, the placing player gains a Resource Token matching that icon from the supply, If there are no matching Resource Tokens available, the player gains nothing. A Resource Token can be spent by returning it to the supply when a player needs that matching Tag for a Project ot Standard Project. Some Projects offer the activating player their choice of an available Resource Token. 
+When a Parameter Cube is placed in a space reserved for a Water Cube that has a Tag icon, the placing player gains a Resource Token matching that icon from the supply, If there are no matching Resource Tokens available, the player gains nothing. A Resource Token can be spent by returning it to the supply when a player needs that matching Tag for a Project ot Standard Project. Some Projects offer the activating player their choice of an available Resource Token. When this ability is activated, the Resource Token comes from the supply. The three types of Resource Tokens are Nature (x2), Production and Science: ![image tag nature]()![image tag nature]()![image tag production]()![image tag science]()
+
+## GENERATION (GAMEPLAY)
+The White Player begins odd Generations and the Black Player begins even Generations. Each Generation (round) the following phases happen in this order:
+1. **Research Phase**
+2. **Action Phase**
+3. **Income Phase**
+
+![image G.1]() **Research Phase:** The first phase of each Generation is the Research Phase. During this phase, the players will draw the Project cards that they will have access to that Generation. Starting with the Generation's start player, take a Project card from the draw pile, flip it over, and decide which Project will face you and which will face your opponent. The second player repeats this process for the second Project card. The starting player then repeats this precess for the third and final Project card. At the end of Research Phase, each player will have access to only the 3 Projects that are facing them.
+
+![image G.2]() **Action Phase:** The Generation's start player will either complete one of his Project cards, complete a Standard Project, or Pass. After he takes one action, the second player will take one action. Actions will be taken, one at time, between each player, until one player passes. After a player passes, he can no longer take any actions during that action phase. The player who has not passed can continue taking actions until he passes.
+
+In order to play a Project or a Standard Project, the player must have the required Tags, Credits, and meet any Parameters listed. If a player cannot meet all the requirements? he cannot activate the Project or Standard Project. Note: He still has access to the Tags provided on the bottom of his Project cards whether the Project is activated or not.
+
+***Reminders:*** A Player may never complete the same Project twice in the same Generation.
+A player may only complete 1 Standard Project per Generation.
+If a player should gain Credits because of an action and there are not enough available from the the supply and the rest are lost. Credits placed on Projects cannot be removed during the Action Phase.
+
+When both players have passed, all Credits on Projects are returned to the supply. The Project cards for that Generation are returned to the bottom of the Draw Deck, faceup, in the same order that they were drawn.
+
+![image G.3]() **Income Phase:** Starting with the Generation's start player, he will collect 1 Credit for each of his cities. He will also collect 1 Credit for each Water Cube adjacent to each of his cities. A Water Cube touching both of a player's cities counts for each of those cities.
+After the start player has added his Income Phase Credits to any Credits he did not use during the Action Phase, he must return to the supply all Credits above 5 (Martian taxes are severe). The second player collects income following the same rules.
+**Check for End Game:** If the supply of Parameter Cubes has not been exhausted from at least 2 of the 3 types and there is at least one vacant hex on the map, the next Generation begins and the start player will shift to the player who was not the start player during the current Generation.
+
+If the supply of Parameter Cubes has been exhausted from at least 2 of the 3 types or there are no more vacant hexes, the game is over and final scoring takes place.
+
+## END GAME
+Once the last Generation has completed, the players will calculate their scores:
+
+**Each City scores:** 1 point for every Greenery Cube adjacent to it. -1 point for every Heat Cube adjacent to it.
+
+**Greenery & Water Cubes each score:** 1 Point to the owner of a city adjacent to it if is only adjacent to one of the player's cities, not both.
+
+**Heat Cubes score:** 1 point for each Heat Cube in the player's personal supply.
+
+If players tie, compare the following until one player has more than the other player in this order: 1. Points from Cities. 2. Points from Greenery Cubes. 3. Points from Water Cubes. 4. Points from Heat Cubes.
+
+## OPTIONAL SETUP
+if players want a more intense game, apply the following rule: **During setup**, arrange the Parameter Cubes in a straight line by type. First row^ 7 Greenery Cubes, placing 1 Heat Cube with the 4th Greenery Cube. Second row: the remaining 10 Heat Cubes, placing 1 Water Cube with the 8th Heat Cube. Third row: the remaining 3 water Cubes.
+
+When a Parameter Cube is taken from the supply, take the leftmost available Parameter Cube of its type. When a player places the 4th Greenery Cube, he also gets a Heat Cube. When a player gains the 8th Heat Cube, he also gets place a Water Cube.
+
+Note: If the 11th Heat Cube of 4th Water Cube is needed because of a Project or Standard Project, and it is still attached to the Greenery or Heat Cube, respectively, remove the needed Cube and the bonus placement will no longer apply to that Parameter.
+
+## SOLITAIRE PLAY
+All the rules for a 2 player game are used with the following exceptions:
+
+**During Setup:** place 1 of the Black Cube and 5 of the Credit Cubes off to the side to keep track of the Generations.
+
+**Place opponent cities:** After shuffiling the Project Cards, flip and reveal one. Of the 2 Project costs shown, take the lower cost and, counting that number of spaces starting from the top leftmost hex, moving left to right, top to bottom (skipping spaces reserved for water), place 1 of the Black Cubes in that hex. Then, taking the higher cost, count that number of spaces starting from the bottom rightmost hex, moving right to left, bottom to top (skipping spaces reserved for water), place the other Black Cube in that hex. These are the dummy player's cities and will not move from the reminder of game. Place the Project card that was used, face up, on the bottom of the Draw Deck.
+
+**You are the White player.** You go first in every Generation and structly limited to 5 Credits Cubes.
